@@ -7,13 +7,16 @@ https://wa.me/+5511945785252?text=Ol%C3%A1%20Rhuan,%20estou%20entrando%20em%20co
 
 ![Rhuan GitHub stats](https://github-readme-stats.vercel.app/api?username=Rhu4nS&show_icons=true&theme=dracula)
 
+Technologies
 <div Style="display: inline_block"><br/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
-<img align="center alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>    
+<img align="center alt="html5" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>   
+</div><br/>
 
+Education
 <div Style="display: inline_block"><br/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"/>
 <img align="center alt="html5" src="https://img.shields.io/badge/Khan%20Academy-14BF96?style=for-the-badge&logo=Khan%20Academy&logoColor=white"/>
-</div> 
+</div><br/>
